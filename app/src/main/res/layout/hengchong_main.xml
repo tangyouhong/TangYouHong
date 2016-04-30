@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="240dp"
+        android:src="@drawable/heng"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="拼命赚钱等女友回国结婚的何宇明（黄晓明饰）意外被通知分手，为了以最快速度飞去洛杉矶追回女友，小明匆忙报了一个名为“好莱坞冒险之旅”的旅行团，
+偶然结识同去好莱坞“朝圣”的资深影迷方大伟（佟大为 饰），二人在旅行团“骗子导游”赵薇薇（赵薇 饰）的带领下，来到了国际电影重镇──好莱坞，却误打误撞卷入犯罪黑幕。薇薇老板Manny（姜成镐 饰）以追星旅行社作掩护暗中经营走私活动，然后伺机嫁祸三人。警方旋即锁定这三位中国“通缉犯”，布下天罗地网进行全城搜捕。为洗脱罪名，宇明、大伟、薇薇决定用最疯狂手段翻转洛杉矶、好莱坞、比华利山，向Manny实行大报复；"
+        android:textSize="15dp" />
+
+</LinearLayout>

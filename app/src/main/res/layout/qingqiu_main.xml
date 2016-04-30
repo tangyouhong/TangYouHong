@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="240dp"
+            android:src="@drawable/qing" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="《阿绣》：狐女花月（陈瑶饰）冒充人间女子阿绣（乔欣饰），与刘子固（张若昀饰）纠葛，她从贪婪人间爱情滋味，到明白人间真爱，最后牺牲自己，成全了真正的阿绣与刘子固。
+《封三娘》：灵狐封飞月（江铠同饰）为百姓打抱不平进入孟家，却发现孟家的坏名声只是遭人陷害，于是帮助孟家脱险，收获了自己的爱情。
+《婴宁》：天性爱笑的狐女婴宁（小彩旗饰）来到王子服（付辛博饰）家，为了弄清母亲（万妮恩饰）被王家残害的往事，到王家遇险时，婴宁以德报怨，赢得了所有人的尊重。
+《胡四》：胡四（Mike饰）本是法力高强的男狐，因贪酒与富家公子张生（陈若轩饰）结为挚友，他帮助张生寻得一幢美好姻缘后潇洒离去。
+《长亭》：收妖人石太璞（王凯饰）助狐族驱妖，狐族老父（傅隽饰）答应将长女长亭（金晨饰）许配给他，却一再反悔，石太璞不计前嫌拯救狐族，最终得以与长亭结成良缘。
+《恒娘》：美丽狐仙恒娘（古力娜扎饰）助隔壁邻居朱氏（姜尘饰）夺回丈夫的心，智斗黄鼠狼小妾。"
+            android:textSize="15dp" />
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="240dp"
+            android:src="@drawable/chaoti" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="25岁的露西（斯嘉丽·约翰逊饰演）是美国公民，在台湾台北市生活和工作。她受到男友的欺骗，沦为运送毒品的“毒骡”，而这一切的幕后主使是韩国人张先生（崔岷植饰演），他是一名黑帮大佬和毒枭。一次，露西把装有天价新式毒品CPH4的箱子交给张先生。露西目睹她的男友被杀害，之后她也遭监禁，CPH4被手术缝进了她的腹部。露西和其他三名毒骡一起要把毒品运到欧洲。
+然而露西由于腹部被人踢伤，毒品包装袋破碎渗入到她体内的器官和血液。不过，露西非但没有死亡，反而发现自己的体能和智能都在药物的作用下得到了飞速的提升，从而拥有了心灵感应、心灵遥感、心灵时空穿梭等不可思议的超能力，而且她能够控制让自己感觉不到疼痛。她成了一个不可不扣的女超人。
+　　在轻易杀死绑架者并逃脱之后，露西去医院取出了她体内的毒品包。从医生口中，露西得知了这种药物的原理以及副作用。感觉到自己的能力在无止境地强大，露西回到了张先生的宾馆，抓住他，杀死保镖，并且从张先生的大脑中获取了其它三名毒骡所在位置的信息。露西为了更加详细地了解自己体内的毒品，联系到教授塞缪尔·诺曼（摩根·弗里曼饰演），此人或许掌握着不让露西被药物杀死的关键。
+　　露西坐飞机来到巴黎，联系当地一名叫做皮埃尔·德尔里奥（阿莫尔·瓦科德饰演）的警察，来帮助她寻找其他三包CPH4的下落。在飞机上，露西喝了一口香槟，身体却在药物的作用下急剧恶化，而唯一能够保住她性命的方式就是服用更多的CPH4。与此同时，露西运用超能力远程控制了一群武装警察和张先生的黑帮成员。
+　　在德尔里奥的帮助下，露西找到了其余的CPH4。在诺曼教授的实验室，露西吐
+露了她关于时间与生命的感悟，并声称其实是人性扭曲了人对世界的感知能力。最终，余下三包CPH4也被注射到了露西的体内，她的身体变幻出一种黑色的物质，在整个实验室飘散，最终形成了一种无形无状的次时代超级电脑。她穿梭时空回到过去，和人类最古老的祖先对话。
+　　正在这时，张先生和他的手下来到实验室，并且用枪抵住了露西的头部。他按下扳机，然而这时露西的超能力达到了百分之百，瞬间消失。露西的声音解释这一切：世间万物都是一体的，而存在只有通过时间才能证明。
+　　露西消失了，留下来的只有她的衣服以及一台黑色超级电脑。这时德尔里奥赶到实验室并且开枪打死了张先生。黑色电脑最终化解为灰烬，但诺曼教授从中去取出了一张黑色，巨大的闪盘。德尔里奥的手机收到了一条短信，是露西发来的“我无处不在”。电影的结尾响起了露西的画外音：“生命是在10亿年前被赋予给我们，现在你知道能用它做什么”"
+            android:textSize="15dp" />
+    </LinearLayout>
+</ScrollView>

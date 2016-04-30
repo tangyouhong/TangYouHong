@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="240dp"
+        android:src="@drawable/nvyi" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="大明国体昌盛却礼教严苛，女子地位低下，不得从医，隐疾难治。谭家为医学世家，祖上几代均为御医，因被奸人所陷害而遭遇灭顶之灾，从此留下祖训，后世不得行医。但聪慧的谭允贤从小耳濡目染，偷偷随祖母学习中医知识，不仅悬壶济世、妙手仁心，得到了普通百姓的赞扬和支持，更渐起救天下女子之心。由此，允贤不仅在学医道路上面临重重的困难和阻碍，更要面对封建礼教和世俗观念的冲击。但允贤凭借着对于医学事业的痴迷和热爱，克服重重困难，不仅在医学上广收博采、兼收并蓄、自成一派，更突破严苛的礼教束缚，开创并建立了女医制度，从救人身体到救人灵魂，再由救人到救国，传播弘扬了祖国医学文化，最终成为了一代女国医，名扬天下。"
+        android:textSize="15dp" />
+</LinearLayout>

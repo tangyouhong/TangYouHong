@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="240dp"
+        android:src="@drawable/gongfu"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="故事发生於1930年代的上海鳄鱼帮和斧头帮这两个黑帮，於上海欺行霸市，且收买当地的警察逃脱指控。阿星（周星驰饰）整日梦想成为黑帮人物，但意志不坚、无所作为。只好冒充斧头帮，跑到黑帮无暇顾及的贫民窟——猪笼城寨敲诈点钱财。不料猪笼城寨的老百姓各各身怀绝技，阿星被众人暴打。恰好斧头帮路过，副头领被阿星的假斧头帮信号炮炸伤，阿星把此事嫁祸给猪笼城寨。帮众进入城寨寻事打斗，结果斧头帮被猪笼城寨的三位高手（五郎八卦棍、洪家铁线拳、十二路谭腿）大挫锐气，大失颜面，败阵而退。
+阿星回想起童年时，在奸商手上买了「如来神掌」「失传武功秘笈」，开始习武，有一天他看见一名不能说话的小女孩被多人欺负，欲见义勇为帮她解围，但反被他们击倒，甚至在阿星身上撒尿。这位哑女孩欲把手中的波板糖送给阿星，但阿星觉得自己深受侮辱，哭著离去，因此便打算在长大后去当坏人。
+斧头帮帮主随后请来两名杀手榜知名高手前去铲除这三个家伙，他俩利用手中古筝，弹出暗器（冲击波），在猪笼城寨杀了他们。猪笼城寨的房东和老板娘最后忍无可忍，露出自己暗藏已久的功夫（太极拳、狮吼功），将这两名杀手打得落花流水武功尽失狼狈逃走，替三个邻居报了仇。斧头帮坐不住了，利用阿星开锁的手艺，从「非正常人类研究中心」（精神病院）放出了号称当今武林第一高人「火云邪神」（梁小龙饰），期望能对付猪笼城寨的武术高强的房东。火云邪神果然不负斧头帮之期望，力克包租公、包租婆。阿星在关键时候，叛离斧头帮，帮助包租公、包租婆，但不幸自己落入火云邪神手中。火云邪神把阿星打得差点一命呜呼，混乱中不但重创了包租婆和包租公，也要了斧头帮帮主的性命。并成了新的斧头帮帮主。但没想到火云邪神的几拳竟然把阿星的任督二脉打通，加上阿星年幼时练习的「如来神掌」功夫，阿星一下子具有震撼无比的武功。最终，火云邪神带斧头帮众前去猪笼城寨与阿星决斗，阿星利用「如来神掌」击破火云邪神的「蛤蟆功」，把火云邪神打败，而火云邪神最后的暗器「莲花毒箭」也被阿星破解，使火云邪神降服在阿星之下"
+        android:textSize="15dp"/>
+</LinearLayout>
+    </ScrollView>

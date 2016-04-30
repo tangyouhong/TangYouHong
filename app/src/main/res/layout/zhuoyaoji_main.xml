@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="240dp"
+            android:src="@drawable/zhuoyao"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="宋天荫（井柏然饰）意外怀孕生下萌妖胡巴后，为保护“儿子”，与天师霍小岚（白百何饰）一起对抗妖界的故事。很久以前，人与万物共存，当中也包括妖。但人想独占天下，于是人向妖宣战，把他们赶进了深山大泽，从此人和妖划界而治。一天，一对装人样的情侣妖竹高（曾志伟饰）和胖莹（吴君如饰），为了保护怀有小妖王的妖后逃避血妖的追杀，来到了永宁村，遇上了善良的天荫（井柏然饰）、降妖少女二钱天师小岚（白百何饰）以及跟小岚对着干的五钱天师罗干（姜武饰）。
+天荫目睹人妖大战，才惊觉有妖的存在。妖后为了保住小妖王，决定将其托付给天荫，二话不说把肚里的蛋塞到天荫的嘴里，男子汉大丈夫的天荫从此就怀着妖胎成为“孕夫”。葛千户（钟汉良饰）重金悬赏小妖王。小岚为了得到赏金，硬拉着从没有离开过永宁村的天荫，躲避罗干的争夺，离开永宁村展开了一段奇幻的旅程，途中遭遇大押店老板娘（汤唯饰）、厨子天师（姚晨饰）、一对萌妖（张悦轩和田雨橙饰）等各路人物。可爱的小妖王胡巴出生，令天荫和小岚的关系起了奇妙的变化，同时也揭穿了一个重大的秘密"
+            android:textSize="15dp" />
+    </LinearLayout>
+
+</ScrollView>

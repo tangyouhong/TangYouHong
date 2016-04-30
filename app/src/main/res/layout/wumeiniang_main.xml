@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="240dp"
+            android:src="@drawable/wu" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="神龙元年（公元705年），太子李显在张柬之等人的簇拥下逼宫，面对威严依旧的大周皇帝武则天，懦弱的李显落荒而逃，张柬之感慨大唐气数已尽，却没料到的是，这一切都在武则天的意料之中；这么多年，她就在等着一个人让她放心将大唐江山托付，等着一个人让她将李唐王朝归还，随着大周王朝的烟消云散，中国历史上唯一的女皇帝的传奇一生揭开帷幕。
+贞观十一年（公元637年），利州（今四川广元）武氏小女如意选入大唐后宫。时逢先皇后长孙氏忌日，宫廷里正在排《兰陵王入阵曲》之舞，如意以绝妙舞姿艳压群芳，并与唐太宗李世民邂逅于承庆殿上。是年，武媚娘十四岁，太宗三十九岁。
+大祭当晚，秀女郑婉言死于非命，所有证据指向如意，她饱受酷刑，被发配掖廷，如意结识了太宗的老乳娘彭氏，彭氏因为当年“玄武门之变”太宗弑兄杀弟而始终不愿原谅他，老死也不愿相见，而如意成为了太宗和老乳娘的情感纽带，结开了太宗的心结，一年期满，如意被放出冷宫，在大朝会上三番五次展露头彩，使得太宗赐其名为媚娘，并册封她为才人，媚娘一时成为后宫所有女人的众矢之的，身陷各种尔虞我诈的宫廷阴谋；皇储斗争腥风血雨，媚娘不料被卷其中，媚娘与太宗两人的爱情经历来自“女主武氏”预言的压力，媚娘以退为进却未想到李世民轰然离去，带走了她此生最为热烈的一段恋爱。"
+            android:textSize="15dp" />
+    </LinearLayout>
+</ScrollView>

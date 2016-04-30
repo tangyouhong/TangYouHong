@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="240dp"
+        android:src="@drawable/zhouyuan" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="“咒怨”指的是含怨而死的人所下的诅咒，在死者生前的居所积聚冲天怨气，凡触碰者必死，并产生新“咒怨”，将恐怖死亡不断蔓延，而“咒怨”就永远死守凶宅，诅咒每一个来客。东京近郊有一间阴森的鬼屋，传说所有到访者均会离奇毙命或神秘失踪。据说当年大屋主人突然狂性大发，斩死妻子后自杀，6岁儿子也从此失踪，至今下落不明。鬼屋内怨念冲天，恐怖笼罩着每一个到访者。大学女生理佳(奥菜惠)因做义工无意间闯入大屋，偶然间竟发现一个神秘诡异男孩，突然现身却又随即消失。此时，理佳开始遇到怪事，其身边众人也受到牵连，恐怖事接二连三。"
+        android:textSize="15dp" />
+</LinearLayout>

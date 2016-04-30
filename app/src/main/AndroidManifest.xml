@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cn.studyjams.s1.sj32.tangyouhong">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+    <activity
+        android:name=".MainActivity"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme.NoActionBar">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+    </activity>
+    <activity android:name=".DongZuoActivity"></activity>
+    <activity android:name=".GuZhuangActivity"></activity>
+    <activity android:name=".KeHuanActivity"></activity>
+    <activity android:name=".KongBuActivity"></activity>
+    <activity android:name=".XiJuActivity"></activity>
+    <activity android:name=".XiJuZhiWangActivity"></activity>
+    <activity android:name=".GangJiongActivity"></activity>
+    <activity android:name=".ZhuoYaoJiActivity"></activity>
+    <activity android:name=".WanWanActivity"></activity>
+    <activity android:name=".YingXiongActivity"></activity>
+    <activity android:name=".GongFuActivity"></activity>
+    <activity android:name=".MingBuActivity"></activity>
+    <activity android:name=".HengChongActivity"></activity>
+    <activity android:name=".XingQiuActivity"></activity>
+    <activity android:name=".ShengHuaActivity"></activity>
+    <activity android:name=".ChaoTiActivity"></activity>
+    <activity android:name=".DuiZhangActivity"></activity>
+    <activity android:name=".BiXianActivity"></activity>
+    <activity android:name=".JiangShiActivity"></activity>
+    <activity android:name=".ZhouYuanActivity"></activity>
+    <activity android:name=".YiMeiActivity"></activity>
+    <activity android:name=".LangYaActivity"></activity>
+    <activity android:name=".NvYiActivity"></activity>
+    <activity android:name=".QingQiuActivity"></activity>
+    <activity android:name=".WuMeiNiangActivity"></activity>
+    </application>
+</manifest>

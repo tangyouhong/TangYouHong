@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="240dp"
+        android:src="@drawable/action"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15dp"
+        android:text="《英雄本色Ⅰ》是由吴宇森执导的动作片，狄龙、张国荣、周润发等领衔主演。
+影片以宋子豪、Mark、宋子杰三人作为主要人物，将江湖兄弟情与亲生兄弟情的矛盾集结在一起，体现了他们各自不同的挫折、失败、忏悔和报复。"/>
+
+</LinearLayout>

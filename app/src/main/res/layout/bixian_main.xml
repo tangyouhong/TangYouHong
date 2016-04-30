@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="240dp"
+            android:src="@drawable/terror" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="小武、慕凡、柳丝丝、凌菲儿是艺校即将毕业的学生，是好朋友，也是两对情侣。临近毕业，租住近郊一套被当地人视为鬼屋的老四合院。入住当晚，四人玩了请笔仙的游戏，谁知道从此犹如打开了潘多拉的魔盒。
+小武犯下了请笔仙的最大禁忌——追问笔仙的死因，笔流下了一滴血泪，整个请笔仙的游戏仓促结束，因此又犯下第二大禁忌——没有送走笔仙。当天晚上，小武在噩梦与真实之间穿梭，当他在晨光里醒来的时候，以为只是一场结束的梦魇，却不知道这恰恰是噩梦的开始。
+神秘的黑衣老太太总是抱着黑猫在他们身边出没，邻居异样的眼神，邻居的院子里整棵树上挂满了死去的黑猫，半夜三更蹑手蹑脚走向他们的鬼影，以及被噩梦困扰而渐渐失去常态、相互陌生的四人……
+同学菊子告诉他们，如果没有送走笔仙，那它会一直缠着他们，不死不休。
+而真正的幕后黑手随着事情的发展而显露出来，原来这一切都是一场阴谋。"
+            android:textSize="15dp" />
+
+    </LinearLayout>
+</ScrollView>

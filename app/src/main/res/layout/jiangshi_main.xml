@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="240dp"
+            android:src="@drawable/jiangshi" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="富贵人家任老爷因于其父葬之时受风水先生吩咐，于二十年后必须起棺迁葬，故找当地茅山师父九叔助办此事。起棺当日，发现任老太爷之墓地为青蜓点水穴，其尸于二十年来毫无腐化迹象。致令九叔生疑，遂将棺木运至其往之义庄。后来任老太爷之尸体变成僵尸，更将任老爷杀死，九叔认为婷婷处境危险，而接进其家住。九叔两徒弟文才，秋生倾慕婷婷，亦因此而与婷之表哥起争执。一晚，文才为保护婷而被僵尸所伤，中了尸毒，以致慢慢变成僵尸，幸尸毒可被糯米所解，但文才食以用来除尸毒之糯米含其他杂米，故无效。另一方面，秋生亦被女鬼小玉所迷，幸后被九叔解救，而九叔亦发现糯米中有杂米，遂将糯米选出煲成糯米粥，救了文才。由于僵尸接二连三地杀人，引起群情凶涌，于是捕头，九叔，文才，秋生及婷婷合力，决将僵尸消灭。"
+            android:textSize="15dp" />
+    </LinearLayout>
+</ScrollView>

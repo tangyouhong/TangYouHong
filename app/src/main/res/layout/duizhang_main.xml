@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="240dp"
+        android:src="@drawable/duizhang"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="斯蒂夫·罗杰斯是出生于经济大萧条时期的一个家境
+贫寒的脆弱青年。因为看到纳粹在欧洲肆虐侵略的新闻而想入伍参军。但因为体弱多病被拒绝了。无意中得知了斯蒂夫·罗杰斯真心愿望的切斯特·菲利普斯将军决定给他一个机会，让他参加“重生计划”。经过几个星期的测试，斯蒂夫·罗杰斯被注射了超级士兵的血清并被用紫外线照射轰击，终于拥有了人类可能拥有的最完美躯体。接着他接受了身体和战术上的训练。三个月后，他得到了作为“美国队长”的第一份任务，带着坚不可摧的盾牌和深谙战术的头脑，他投入了与红骷髅的斗争，最终阻止了红骷髅的邪恶计划，但是自己也因此被冰封，直到70年后才醒来"
+        android:textSize="15dp"/>
+</LinearLayout>
